@@ -1,25 +1,33 @@
-import logo from './logo.svg';
+import React, { Component, Fragment } from 'react';
 import './App.css';
+import Header from './components/header';
+import Home from './components/home';
+import Stats from './components/stats';
+import About1 from './components/about1';
+import Projects from './components/projects';
+import Brands from "./components/brands"
+import About2 from './components/about2';
+import Blog from './components/blog';
+import Contact from './components/contact';
+import Footer from './components/footer';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <Fragment>
+        <Header />
+        <Home />
+        <Stats />
+        <About1 />
+        <Projects />
+        <Brands />
+        <About2 />
+        <Blog />
+        <Contact />
+        <Footer />
+      </Fragment>
+    )
+  }
 }
 
 export default App;
