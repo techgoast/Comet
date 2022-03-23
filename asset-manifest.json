@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Comet/static/css/main.ff35cda2.css",
+    "main.js": "/Comet/static/js/main.958aa0d4.js",
+    "static/js/787.6c9dca54.chunk.js": "/Comet/static/js/787.6c9dca54.chunk.js",
+    "static/media/project5.webp": "/Comet/static/media/project5.e0eafdbbce59f56196db.webp",
+    "static/media/blog3.webp": "/Comet/static/media/blog3.9f94a0923d6c18684e05.webp",
+    "static/media/project3.webp": "/Comet/static/media/project3.3fb4662ccbcf67364f42.webp",
+    "static/media/project1.webp": "/Comet/static/media/project1.3d239d7870c6fc97c31e.webp",
+    "static/media/blog1.webp": "/Comet/static/media/blog1.d3f8b010e77fc688be85.webp",
+    "static/media/pexels-monoar-rahman-109371.webp": "/Comet/static/media/pexels-monoar-rahman-109371.be8a2ae1b5fbfc441c09.webp",
+    "static/media/pexels-tranmautritam-326501.webp": "/Comet/static/media/pexels-tranmautritam-326501.895fb1aac0b25f03de46.webp",
+    "static/media/pexels-anton-46924.webp": "/Comet/static/media/pexels-anton-46924.3946981ec99417f51200.webp",
+    "static/media/pexels-joslyn-pickens-3831729.webp": "/Comet/static/media/pexels-joslyn-pickens-3831729.b2d3e273646e0c633c58.webp",
+    "static/media/project6.webp": "/Comet/static/media/project6.c66ae7f35f60495a4389.webp",
+    "static/media/project2.webp": "/Comet/static/media/project2.8227605c8a2d2f4bd8fa.webp",
+    "static/media/blog2.webp": "/Comet/static/media/blog2.f0a280fe2284b0b3ef3b.webp",
+    "static/media/project4.webp": "/Comet/static/media/project4.fb9f1a1c3706aca93d29.webp",
+    "index.html": "/Comet/index.html",
+    "main.ff35cda2.css.map": "/Comet/static/css/main.ff35cda2.css.map",
+    "main.958aa0d4.js.map": "/Comet/static/js/main.958aa0d4.js.map",
+    "787.6c9dca54.chunk.js.map": "/Comet/static/js/787.6c9dca54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff35cda2.css",
+    "static/js/main.958aa0d4.js"
+  ]
+}
